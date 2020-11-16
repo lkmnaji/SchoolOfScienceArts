@@ -1,0 +1,51 @@
+.img-login1{
+    width: 100%;
+    height: auto;
+}
+#ctn-formlogin{
+    background-color: #002244;
+}
+.img-login2{
+    width: 150px;
+    margin-left: 250px;
+    margin-top: 100px;
+}
+#p-login1{
+    text-align: center;
+    color: white;
+    font-size: 30px;
+}
+.form-check-label{
+    color: white;
+}
+#row-login4{
+    margin-top: 10px;
+}
+#p-login2{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+.regis{
+    color: white;
+    text-decoration: none;
+}
+
+/* register */
+#ctn-formregister{
+    background-color: #002244;
+}
+.img-resgister1{
+    width: 100%;
+    height: auto;
+}
+.img-register2{
+    width: 150px;
+    margin-left: 250px;
+    margin-top: 30px;
+}
+#p-register1{
+    text-align: center;
+    color: white;
+    font-size: 30px;
+}
